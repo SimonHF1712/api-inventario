@@ -1,0 +1,7 @@
+./venv/*
+/venv/
+venv/*
+crud/*.pyc
+api_inv/__pycache__/*.pyc
+api_inv/__pycache__/
+
